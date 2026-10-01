@@ -16,4 +16,16 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
