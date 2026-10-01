@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
