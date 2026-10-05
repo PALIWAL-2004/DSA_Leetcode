@@ -40,14 +40,17 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
