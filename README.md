@@ -39,16 +39,19 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
