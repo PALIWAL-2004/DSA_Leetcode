@@ -42,6 +42,7 @@
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -49,6 +50,7 @@
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -56,6 +58,7 @@
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
@@ -84,4 +87,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
