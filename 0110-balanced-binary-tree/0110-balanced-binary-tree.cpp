@@ -1,30 +1,35 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
+    int findifbal(TreeNode* root){
+        if(!root) return 0;
+
+        int left = findifbal(root->left);
+        if(left == -1) return -1;
+
+        int right = findifbal(root->right);
+        if(right == -1) return -1;
+
+
+        if(abs(left - right) <= 1){
+            int value = 1+max(left,right);
+            return value;
+        }
+        return -1;
+    }
 public:
     bool isBalanced(TreeNode* root) {
-        // If the helper function returns -1, the tree is unbalanced.
-        return checkHeight(root) != -1;
-    }
-
-private:
-    int checkHeight(TreeNode* node) {
-        if (node == nullptr) {
-            return 0; // Base case: height of a null node is 0
-        }
-
-        // Check left subtree
-        int leftHeight = checkHeight(node->left);
-        if (leftHeight == -1) return -1; // Propagate the imbalance upward
-
-        // Check right subtree
-        int rightHeight = checkHeight(node->right);
-        if (rightHeight == -1) return -1; // Propagate the imbalance upward
-
-        // If the current node is unbalanced, return -1
-        if (abs(leftHeight - rightHeight) > 1) {
-            return -1;
-        }
-
-        // Return the height of the current node
-        return max(leftHeight, rightHeight) + 1;
+        if(!root) return true;
+        if(findifbal(root)>0) return true;
+        return false;
     }
 };
