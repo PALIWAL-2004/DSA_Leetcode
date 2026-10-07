@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
