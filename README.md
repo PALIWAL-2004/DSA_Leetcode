@@ -51,6 +51,7 @@
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
