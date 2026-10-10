@@ -38,10 +38,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0678-valid-parenthesis-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -112,4 +115,12 @@
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
