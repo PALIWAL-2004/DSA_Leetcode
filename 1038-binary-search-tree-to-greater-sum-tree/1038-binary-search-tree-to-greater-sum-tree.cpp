@@ -11,12 +11,14 @@
  */
 class Solution {
 int sum = 0;
-    void ctv(TreeNode *root){
-   if(!root) return ;
+    int ctv(TreeNode *root){
+   if(!root) return 0;
     ctv(root->right);
     sum = sum + root->val;
     root->val = sum;
+   
     ctv(root->left);
+     return sum;
     
 }
 public:
