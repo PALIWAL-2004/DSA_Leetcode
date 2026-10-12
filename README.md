@@ -40,6 +40,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String Matching
 |  |
 | ------- |
@@ -139,4 +141,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
