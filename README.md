@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -52,10 +53,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -153,6 +157,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
