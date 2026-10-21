@@ -13,6 +13,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
