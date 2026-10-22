@@ -19,6 +19,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -62,6 +63,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -73,6 +75,7 @@
 | [0100-same-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -85,6 +88,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/PALIWAL-2004/DSA_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
